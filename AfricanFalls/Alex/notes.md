@@ -29,4 +29,11 @@
 ---
 
 ## Investigation Findings
-*(To be updated as investigation progresses)*
+## Cracked Password Hashes
+
+| Account | Hash | Cracked Password | Tool Used |
+|---------|------|-----------------|-----------|
+| Anon | 3DE1A36F6DDB8E036DFD75E8E20C4AF4 | AFR1CA! | hashes.com |
+
+**Q10 Answer:** AFR1CA!
+
